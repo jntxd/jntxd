@@ -9,4 +9,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 
 
-Follow me
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/jntxd)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/vooyya)
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda) -->
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/jntxd)
