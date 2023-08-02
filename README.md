@@ -1,4 +1,4 @@
-(https://github.com/jntxd/jntxd/blob/main/assets/header.png)
+!(https://github.com/jntxd/jntxd/blob/main/assets/header.png)
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jost&pause=1000&color=F7F7F7&width=435&lines=I'm+an+enthusiastic+Flutter+Developer)](https://git.io/typing-svg)
 
